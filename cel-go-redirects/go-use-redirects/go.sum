@@ -1,3 +1,5 @@
+cel.sergii.org/expr v0.0.5 h1:BLIuoF+y4uNg0YVn0GkWA3AIXVILiUr3YJMzxJ7GfeI=
+cel.sergii.org/expr v0.0.5/go.mod h1:n4VUBA6z8WpMQ/cBrbx7A6xbzImJLxs4mJK730jgH8M=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237 h1:NnYq6UN9ReLM9/Y01KWNOWyI5xQ9kbIms5GGJVwS/Yc=

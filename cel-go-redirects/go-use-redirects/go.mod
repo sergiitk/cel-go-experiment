@@ -3,7 +3,7 @@ module sergii.org/example
 go 1.22.1
 
 require (
-	cel.sergii.org/expr v0.0.4
+	cel.sergii.org/expr v0.0.5
 	google.golang.org/protobuf v1.33.0
 )
 
