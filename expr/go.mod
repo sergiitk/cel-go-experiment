@@ -1,6 +1,6 @@
-module cel.dev/expr
+module cel.wtf/expr
 
-go 1.18
+go 1.22.1
 
 require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237
