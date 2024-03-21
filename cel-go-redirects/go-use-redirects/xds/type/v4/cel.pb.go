@@ -7,7 +7,7 @@
 package v4
 
 import (
-	expr "cel.sergii/expr"
+	expr "cel.sergii.org/expr"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

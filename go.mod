@@ -1,4 +1,4 @@
-module cel.sergii/expr
+module cel.sergii.org/expr
 
 go 1.22.1
 

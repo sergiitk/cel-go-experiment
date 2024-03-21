@@ -1,7 +1,7 @@
 import http.server
 import ssl
 
-server_address = ("cel.sergii", 443)
+server_address = ("127.0.0.1", 443)
 DIRECTORY = "web"
 
 class Handler(http.server.SimpleHTTPRequestHandler):

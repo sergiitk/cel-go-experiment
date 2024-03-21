@@ -3,7 +3,7 @@
 ### Update hosts
 
 ```
-127.0.0.1 cel.sergii
+127.0.0.1 cel.sergii.org
 ````
 
 ### Start redirects server

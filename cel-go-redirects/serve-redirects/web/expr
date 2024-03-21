@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="go-import" content="cel.sergii/expr git https://github.com/sergiitk/cel-go-experiment">
+    <meta name="go-import" content="cel.sergii.org/expr git https://github.com/sergiitk/cel-go-experiment">
 </head>
 <body>
 </body>
