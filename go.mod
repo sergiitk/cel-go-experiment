@@ -1,4 +1,4 @@
-module cel.wtf/expr
+module cel.sergii/expr
 
 go 1.22.1
 

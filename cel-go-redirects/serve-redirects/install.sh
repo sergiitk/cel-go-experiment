@@ -10,7 +10,7 @@ if [[ ! -d ./certs || ! -f ./certs/server.pem ]]; then
   pushd certs > /dev/null
   set -x
   openssl req -new -x509 -keyout key.pem -out server.pem -days 365 -nodes \
-    -subj "/C=US/ST=CA/O=sergiitk/CN=cel.wtf"
+    -subj "/C=US/ST=CA/O=sergiitk/CN=cel.sergii"
   set +x
   popd > /dev/null
 fi

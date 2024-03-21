@@ -2,9 +2,9 @@
 
 set -x
 export GOPROXY=direct
-export GOINSECURE="cel.wtf/*"
-export GONOSUMDB="cel.wtf/*"
-export GOPRIVATE="cel.wtf/*"
+export GOINSECURE="cel.sergii/*"
+export GONOSUMDB="cel.sergii/*"
+export GOPRIVATE="cel.sergii/*"
 
 # uncomment to clean
 # go clean -modcache

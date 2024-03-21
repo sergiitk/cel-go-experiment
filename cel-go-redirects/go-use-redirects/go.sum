@@ -1,5 +1,3 @@
-cel.wtf/expr v0.0.3 h1:xN7vhd0OfnfN17FbHDET2/uqWkcHa5JIbkW/CJ002+g=
-cel.wtf/expr v0.0.3/go.mod h1:l22VJnAKJoDzxW1oK4N1+N34BKPYH5HREiRoalEhW5A=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237 h1:NnYq6UN9ReLM9/Y01KWNOWyI5xQ9kbIms5GGJVwS/Yc=
